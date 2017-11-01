@@ -1,0 +1,6 @@
+framework module Pods_POCiOS {
+  umbrella header "Pods-POCiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
